@@ -29,7 +29,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/workspaces/vscode-remote-try-cpp",
-      "program": "/workspaces/vscode-remote-try-cpp/build/Debug/outDebug",
+      "program": "/workspaces/vscode-remote-try-cpp/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
